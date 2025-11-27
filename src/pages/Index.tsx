@@ -128,9 +128,13 @@ const Index = () => {
       <nav className="bg-card/80 backdrop-blur-lg border-b border-border sticky top-0 z-50 shadow-sm">
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
-            <div className="flex items-center gap-2">
-              <Icon name="Building2" className="text-primary" size={32} />
-              <span className="text-2xl font-heading font-bold text-foreground">ВенгРос Real Estate</span>
+            <div className="flex items-center gap-3">
+              <img 
+                src="https://cdn.poehali.dev/projects/c06123cb-de11-4378-852d-5693d39fec63/files/de9ea89d-6686-42d2-b188-553cb706edce.jpg" 
+                alt="PrimeEstate Logo" 
+                className="w-10 h-10 rounded-lg object-cover"
+              />
+              <span className="text-2xl font-heading font-bold text-foreground">PrimeEstate</span>
             </div>
             <div className="hidden md:flex items-center gap-6">
               <button
@@ -625,10 +629,14 @@ const Index = () => {
           <div className="grid md:grid-cols-4 gap-8">
             <div>
               <div className="flex items-center gap-2 mb-4">
-                <Icon name="Building2" size={28} />
-                <span className="text-xl font-heading font-bold">ВенгРос Real Estate</span>
+                <img 
+                  src="https://cdn.poehali.dev/projects/c06123cb-de11-4378-852d-5693d39fec63/files/de9ea89d-6686-42d2-b188-553cb706edce.jpg" 
+                  alt="PrimeEstate Logo" 
+                  className="w-8 h-8 rounded-lg object-cover"
+                />
+                <span className="text-xl font-heading font-bold">PrimeEstate</span>
               </div>
-              <p className="text-muted-foreground text-sm"></p>
+              <p className="text-muted-foreground text-sm">Премиальная недвижимость для вашего комфорта</p>
             </div>
             <div>
               <h4 className="font-heading font-semibold mb-4">Разделы</h4>
