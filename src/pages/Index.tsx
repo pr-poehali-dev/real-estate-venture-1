@@ -523,9 +523,7 @@ const Index = () => {
                   />
                 </div>
                 <div>
-                  <h3 className="text-2xl font-heading font-bold text-foreground mb-4">
-                    PrimeEstate - Ваш надежный партнер
-                  </h3>
+                  <h3 className="text-2xl font-heading font-bold text-foreground mb-4">ВенгРос Real Estate - Ваш надежный партнер</h3>
                   <p className="text-muted-foreground leading-relaxed mb-4">
                     Мы специализируемся на премиальной недвижимости с 2010 года. За это время помогли более 5000 клиентам найти дом их мечты.
                   </p>
