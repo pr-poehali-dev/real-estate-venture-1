@@ -170,9 +170,7 @@ const Index = () => {
                 className={`font-medium transition-colors ${
                   activeSection === 'about' ? 'text-primary' : 'text-muted-foreground hover:text-primary'
                 }`}
-              >
-                О нас
-              </button>
+              >Обо мне</button>
               <button
                 onClick={() => setActiveSection('contacts')}
                 className={`font-medium transition-colors ${
