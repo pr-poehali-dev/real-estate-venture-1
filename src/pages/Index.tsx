@@ -561,9 +561,7 @@ const Index = () => {
             </h2>
             <div className="grid md:grid-cols-2 gap-8">
               <Card className="p-8 shadow-xl">
-                <h3 className="text-2xl font-heading font-bold text-foreground mb-6">
-                  Свяжитесь с нами
-                </h3>
+                <h3 className="text-2xl font-heading font-bold text-foreground mb-6">ВенгРос Real Estate - Ваш надежный партнер</h3>
                 <div className="space-y-4">
                   <div className="flex items-start gap-3">
                     <Icon name="Phone" size={24} className="text-primary mt-1" />
