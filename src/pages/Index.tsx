@@ -638,7 +638,7 @@ const Index = () => {
             <div>
               <div className="flex items-center gap-2 mb-4">
                 <Icon name="Building2" size={28} />
-                <span className="text-xl font-heading font-bold">PrimeEstate</span>
+                <span className="text-xl font-heading font-bold">ВенгРос Real Estate</span>
               </div>
               <p className="text-muted-foreground text-sm">
                 Премиальная недвижимость для вашего комфорта
