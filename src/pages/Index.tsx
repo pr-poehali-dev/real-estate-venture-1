@@ -130,7 +130,7 @@ const Index = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-2">
               <Icon name="Building2" className="text-primary" size={32} />
-              <span className="text-2xl font-heading font-bold text-foreground">PrimeEstate</span>
+              <span className="text-2xl font-heading font-bold text-foreground">ВенгРос Real Estate</span>
             </div>
             <div className="hidden md:flex items-center gap-6">
               <button
@@ -201,9 +201,7 @@ const Index = () => {
             <div className="absolute inset-0 bg-gradient-to-r from-slate-900/80 to-blue-900/60" />
           </div>
           <div className="relative z-10 container mx-auto px-4 text-center text-white animate-fade-in">
-            <h1 className="text-5xl md:text-7xl font-heading font-bold mb-6">
-              Найдите дом своей мечты
-            </h1>
+            <h1 className="text-5xl md:text-7xl font-heading font-bold mb-6">Недвижимость Тюмени</h1>
             <p className="text-xl md:text-2xl mb-8 text-slate-200">
               Премиальная недвижимость в лучших районах города
             </p>
