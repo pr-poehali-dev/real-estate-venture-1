@@ -664,7 +664,7 @@ const Index = () => {
               <h4 className="font-heading font-semibold mb-4">Контакты</h4>
               <ul className="space-y-2 text-sm text-muted-foreground">
                 <li>+7 (904) 491-90-95</li>
-                <li>info@primeestate.ru</li>
+                <li>oxana.vengrusova@yandex.ru</li>
                 <li>г. Москва, ул. Примерная, д. 1</li>
               </ul>
             </div>
