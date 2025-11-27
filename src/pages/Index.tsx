@@ -665,7 +665,7 @@ const Index = () => {
               <ul className="space-y-2 text-sm text-muted-foreground">
                 <li>+7 (904) 491-90-95</li>
                 <li>oxana.vengrusova@yandex.ru</li>
-                <li>г. Москва, ул. Примерная, д. 1</li>
+                <li>г.Тюмень</li>
               </ul>
             </div>
           </div>
