@@ -640,9 +640,7 @@ const Index = () => {
                 <Icon name="Building2" size={28} />
                 <span className="text-xl font-heading font-bold">ВенгРос Real Estate</span>
               </div>
-              <p className="text-muted-foreground text-sm">
-                Премиальная недвижимость для вашего комфорта
-              </p>
+              <p className="text-muted-foreground text-sm"></p>
             </div>
             <div>
               <h4 className="font-heading font-semibold mb-4">Разделы</h4>
