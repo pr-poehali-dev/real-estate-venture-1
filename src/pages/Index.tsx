@@ -525,9 +525,7 @@ const Index = () => {
                 <div>
                   <h3 className="text-2xl font-heading font-bold text-foreground mb-4">ВенгРос Real Estate - Ваш надежный партнер</h3>
                   <p className="text-muted-foreground leading-relaxed mb-4">Я — Оксана Венгрусова, опытный специалист в сфере недвижимости. Знаете, почему тысячи клиентов выбирают именно меня? Потому что кроме профессиональной консультации и качественного сопровождения сделок я искренне благодарна каждому своему клиенту и дарю персональный бонус в размере 50 000 рублей сразу после успешного приобретения недвижимости</p>
-                  <p className="text-muted-foreground leading-relaxed">
-                    Наша миссия - сделать процесс покупки недвижимости простым, прозрачным и комфортным для каждого клиента.
-                  </p>
+                  <p className="text-muted-foreground leading-relaxed"></p>
                 </div>
               </div>
               <div className="grid grid-cols-3 gap-6 text-center pt-8 border-t border-border">
