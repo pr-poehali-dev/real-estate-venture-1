@@ -512,9 +512,7 @@ const Index = () => {
       {activeSection === 'about' && (
         <section className="container mx-auto px-4 py-12">
           <div className="max-w-4xl mx-auto animate-fade-in">
-            <h2 className="text-4xl font-heading font-bold text-foreground mb-8 text-center">
-              О компании
-            </h2>
+            <h2 className="text-4xl font-heading font-bold text-foreground mb-8 text-center">обо мне</h2>
             <Card className="p-8 shadow-xl">
               <div className="grid md:grid-cols-2 gap-8 items-center mb-8">
                 <div>
